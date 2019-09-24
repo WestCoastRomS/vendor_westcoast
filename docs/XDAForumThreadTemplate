@@ -1,0 +1,113 @@
+THREAD_TITLE:
+
+[ROM][OFFICIAL][Marshmallow 6.0][YOUR_DEVICE_CODENAME] PAC-ROM MM
+
+THREAD_CONTENT:
+
+[CENTER][IMG]http://pac-rom.com/images/threads/forum_threads/Header.png[/IMG]
+
+
+[URL=http://www.pac-rom.com][IMG="PAC Homepage"]http://www.pac-rom.com/images/linksbar/pac.png[/IMG][/URL]  [URL=http://pic.pac-rom.com][IMG="Vendor Repositories"]http://www.pac-rom.com/images/linksbar/19.png[/IMG][/URL]  [URL=http://github.pac-rom.com][IMG="ROM Source"]http://www.pac-rom.com/images/linksbar/17.png[/IMG][/URL]  [URL=http://ss.pac-rom.com][IMG="Device and Kernel Repositories"]http://www.pac-rom.com/images/linksbar/18.png[/IMG][/URL]  [URL=http://review.pac-rom.com][IMG="Gerrit Review"]http://www.pac-rom.com/images/linksbar/6.png[/IMG][/URL]  [URL=http://jenkins.pac-rom.com][IMG="Jenkins Buildsystem"]http://www.pac-rom.com/images/linksbar/9.png[/IMG][/URL]  [URL=http://build.pac-rom.com][IMG="Jenkins Builds and Stats"]http://www.pac-rom.com/images/linksbar/10.png[/IMG][/URL]  [URL=http://translate.pac-rom.com][IMG="Crowdin Translations"]http://www.pac-rom.com/images/linksbar/2.png[/IMG][/URL]  [URL=http://changelog.pac-rom.com][IMG="Changelogs"]http://www.pac-rom.com/images/linksbar/1.png[/IMG][/URL]  [URL=http://jira.pac-rom.com][IMG="JIRA Bugs and Issues Reporting"]http://www.pac-rom.com/images/linksbar/11.png[/IMG][/URL]  [URL=http://wiki.pac-rom.com][IMG="Wiki - Tutorials and Info"]http://www.pac-rom.com/images/linksbar/16.png[/IMG][/URL]  [URL=http://forum.pac-rom.com][IMG="Discussion and Support Forum"]http://www.pac-rom.com/images/linksbar/5.png[/IMG][/URL]  [URL=http://download.pac-rom.com][IMG="Downloads"]http://www.pac-rom.com/images/linksbar/3.png[/IMG][/URL]  [URL=http://join.pac-rom.com][IMG="Become a Maintainer"]http://www.pac-rom.com/images/linksbar/12.png[/IMG][/URL]  [URL=http://stats.pac-rom.coms][IMG="PAC-ROM Stats"]http://www.pac-rom.com/images/linksbar/14.png[/IMG][/URL]  [URL=http://team.pac-rom.com][IMG="Team and Contributors"]http://www.pac-rom.com/images/linksbar/13.png[/IMG][/URL]  [URL=http://gplus.pac-rom.com][IMG="Google Plus"]http://www.pac-rom.com/images/linksbar/7.png[/IMG][/URL]  [URL=http://community.pac-rom.com][IMG="Google Plus Community"]http://www.pac-rom.com/images/linksbar/8.png[/IMG][/URL]  [URL=http://twitter.pac-rom.com][IMG="Twitter"]http://www.pac-rom.com/images/linksbar/15.png[/IMG][/URL]  [URL=http://facebook.pac-rom.com][IMG="Facebook"]http://www.pac-rom.com/images/linksbar/4.png[/IMG][/URL]
+
+
+[B][SIZE="4"]PAC-ROM is built with our own tweaks and options, including picks and features from the best ROMs out there!
+
+Why choose among ROMs, when you have All-in-One !![/SIZE]
+
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Screenshots.png[/IMG]
+
+[IMG]http://www.pac-rom.com/images/PAC_man_slider.gif[/IMG]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Features.png[/IMG]
+[IMG]http://pac-rom.com/images/threads/forum_threads/Features_List.png[/IMG]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Disclaimer.png[/IMG]
+[INDENT][SIZE="3"]* [COLOR="red"]By flashing this, you automatically void your warranty![/COLOR] *
+
+* [COLOR="red"]If your phone breaks, blows up or runs away from you, do not cry to us![/COLOR] *
+
+* [COLOR="red"]Do not ask for ETAs!![/COLOR] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/How_to_Install.png[/IMG]
+[INDENT][SIZE="3"]* [COLOR="#f784ec"]Download the ROM and GApps[/COLOR] *
+
+* [COLOR="#f784ec"]Reboot to recovery[/COLOR] *
+
+* [COLOR="#f784ec"]Wipe data/factory reset[/COLOR] *
+
+* [COLOR="#f784ec"]Flash the ROM and then GApps[/COLOR] *
+
+* [COLOR="#f784ec"]Reboot your phone[/COLOR] *
+
+* [COLOR="#f784ec"]Enjoy[/COLOR] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/How_to_Update.png[/IMG]
+[INDENT][SIZE="3"]* [COLOR="#5997b7"]Download the latest version[/COLOR] *
+
+* [COLOR="#5997b7"]Reboot to recovery[/COLOR] *
+
+* [COLOR="#5997b7"]Flash the ROM[/COLOR] *
+
+* [COLOR="#5997b7"]Wipe both dalvik cache and cache[/COLOR] *
+
+* [COLOR="#5997b7"]Reboot your phone[/COLOR] *
+
+* [COLOR="#5997b7"]Enjoy the latest version of PAC-ROM[/COLOR] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Not_Working.png[/IMG]
+[INDENT][SIZE="3"]* [URL="http://jira.pac-rom.com/"][COLOR="#5997b7"]Submit a bug report[/COLOR][/URL] *
+
+* [URL="http://review.pac-rom.com/"][COLOR="#5997b7"]Submit a patch[/COLOR][/URL] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Other_Info.png[/IMG]
+[INDENT][SIZE="3"]* [COLOR="red"]None for now[/COLOR] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Download.png[/IMG]
+[INDENT][SIZE="3"]* [URL="INSERT_YOUR_PAC_FORUM_LINK_FROM_CONTRIBUTORS_HERE"][COLOR="#5997b7"]PAC-ROM Downloads[/COLOR][/URL] *
+
+* [URL="http://gapps.pac-rom.com"][COLOR="#5997b7"]GApps[/COLOR][/URL] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Credits.png[/IMG]
+[INDENT][SIZE="3"]* [URL="https://github.com/PAC-ROM"][COLOR="#ebee00"]PAC-ROM Team[/COLOR][/URL] *
+
+* [URL="https://github.com/CyanogenMod"][COLOR="#5997b7"]Cyanogen Team[/COLOR][/URL] *
+
+* [URL="https://github.com/AOKP"][COLOR="#f784ec"]AOKP Team[/COLOR][/URL] *
+
+* [URL="https://github.com/DirtyUnicorns"][COLOR="#9cce38"]DirtyUnicorns[/COLOR][/URL] *
+
+* [URL="https://github.com/SlimRoms"][COLOR="#5997b7"]SlimRoms[/COLOR][/URL] *
+
+* [URL="https://github.com/VanirAOSP"][COLOR="#f784ec"]Vanir[/COLOR][/URL] *
+
+* [URL="https://github.com/Omnirom"][COLOR="#9cce38"]Omnirom[/COLOR][/URL] *
+
+* [COLOR="#5997b7"]Special thanks to all our Build Bot Providers (see Contributors list for all names)[/COLOR] *
+
+* [COLOR=#f784ec]PAC Graphix Team - Graphics, logos and images (see Contributors list for all names)[/COLOR] *
+
+* [COLOR=#ebee00]And of course, thank you for your love and support![/COLOR] *[/SIZE][/INDENT]
+
+
+[IMG]http://pac-rom.com/images/threads/forum_threads/Support.png[/IMG]
+
+[SIZE="4"][COLOR="#ffcc33"][U]Support us with these banners:[/U][/COLOR]
+
+[IMG]http://pac-rom.com/images/banners/pac_user_banner.png[/IMG]
+
+[IMG]http://pac-rom.com/images/banners/pac_poweredby_banner.png[/IMG]
+
+[COLOR="#ffcc33"][U]Help with server costs[/U][/COLOR]
+
+[IMG]http://pac-rom.com/images/donate.gif[/IMG]
+[URL="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LP4KC5BKJUK7L&lc=US&item_name=PAC%2dman%20Roms&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"][IMG]http://pac-rom.com/images/donate.png[/IMG][/URL][/SIZE][/B][/CENTER]

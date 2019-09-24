@@ -1,0 +1,45 @@
+#!/bin/bash
+#
+# ANSI color scheme script for PAC-ROM
+# Copyright (C) 2015 The PAC-ROM Project
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+#
+# Author: MaDc0w
+#
+
+echo -e "${rst}${blu}${line}${rst}"
+echo -e "   ${bldylw}▄███████▄        ${bldred}▄██████▄        ${bldgrn}▄██████▄        ${bldmag}▄██████▄        ${bldcya}▄██████▄    ${rst}"
+echo -e "  ${bldylw}▀▀█████████▄    ${bldred}▄${bldwhi}█▀█${bldred}██${bldwhi}█▀█${bldred}██▄    ${bldgrn}▄${bldwhi}█▀█${bldgrn}██${bldwhi}█▀█${bldgrn}██▄    ${bldmag}▄${bldwhi}█▀█${bldmag}██${bldwhi}█▀█${bldmag}██▄    ${bldcya}▄${bldwhi}█▀█${bldcya}██${bldwhi}█▀█${bldcya}██▄  ${rst}"
+echo -e "      ${bldylw}▀███████    ${bldred}█${bldwhi}▄▄█${bldred}██${bldwhi}▄▄█${bldred}███    ${bldgrn}█${bldwhi}▄▄█${bldgrn}██${bldwhi}▄▄█${bldgrn}███    ${bldmag}█${bldwhi}▄▄█${bldmag}██${bldwhi}▄▄█${bldmag}███    ${bldcya}█${bldwhi}▄▄█${bldcya}██${bldwhi}▄▄█${bldcya}███  ${rst}"
+echo -e "      ${bldylw}▄███████    ${bldred}████████████    ${bldgrn}████████████    ${bldmag}████████████    ${bldcya}████████████  ${rst}"
+echo -e "  ${bldylw}▄▄█████████▀    ${bldred}████████████    ${bldgrn}████████████    ${bldmag}████████████    ${bldcya}████████████  ${rst}"
+echo -e "   ${bldylw}▀███████▀      ${bldred}█▀ ▀█  █▀ ▀█    ${bldgrn}█▀ ▀█  █▀ ▀█    ${bldmag}█▀ ▀█  █▀ ▀█    ${bldcya}█▀ ▀█  █▀ ▀█  ${rst}"
+echo -e "${blu}${line}${rst}"
+echo -e ""
+echo -e "         ${ylw}▄▄██      ${bldmag}THANK YOU FOR CHOOSING${rst}          ${blu}▄██████▄         ${grn}▄██████▄  ${rst}"
+echo -e "      ${ylw}▄▀▀ █                                      ${blu}▄█${bldwhi}██${rst} ${blu}██████▄     ${grn}▄█${bldwhi}███${rst}${grn}██${bldwhi}███${rst}${grn}█▄${rst}"
+echo -e "  ${bldred}▄██${bldbgylw}▄${rst}${bldred}▄${rst}${ylw}  █      ${bldylw}__        __     ${grn}__   __         ${rst}${blu}██${bldwhi}███${rst}${blu}██${bldwhi}███${rst}${blu}██     ${grn}██${bldwhi}█ █${rst}${grn}██${bldwhi}█ █${rst}${grn}██${rst}"
+echo -e "  ${bldred}█${bldbgwhi}▀${rst}${bldred}██▀▄█${bldred}${rst}${ylw}█${bldred}█▄   ${bldylw}|__)  /\  /  \` ${bldwhi}_ ${bldgrn}|__) /  \ |\/|   ${rst}${blu}███████ ${bldwhi}██${rst}${blu}██     ${grn}████████████${rst}"
+echo -e "   ${rst}${bldred}▀▀▀ █${bldbgwhi}▀█${rst}${bldred}██   ${bldylw}|    /~~\ \__,   ${bldgrn}|  \ \__/ |  |   ${rst}${blu}██▀██▀▀██▀██     ${grn}██▀██▀▀██▀██${rst}"
+echo -e "  ${bldred}      ${rst}${bldred}▀▀▀                                      ${rst}${blu}▀   ▀  ▀   ▀     ${grn}▀   ▀  ▀   ▀${rst}"
+echo -e "${blu}${line}${rst}"
+echo -e "    ${bldylw}▄███████▄${rst}                   ${bldblu}▄██████▄          ${bldwhi}▄██████▄          ${rst}${mag}▄██████▄  ${rst}"
+echo -e "  ${bldylw}▄█████████▀▀${rst}                ${bldblu}▄██${bldbgwhi}▀████▀${rst}${bldblu}██▄      ${rst}${bldwhi}▄██${bldbgred}▀████▀${rst}${bldwhi}██▄      ${rst}${mag}▄█${bldwhi}█ █${rst}${mag}██${bldwhi}█ █${rst}${mag}█▄${rst}"
+echo -e "  ${bldylw}███████▀  ${bldwhi}▄██▄    ▄▄    ▄▄${rst}  ${bldblu}███${bldbgwhi}▄████${bldbgwhi}▄${rst}${bldblu}███  ${bldwhi}▄▄  ███${bldbgred}▄████▄${rst}${bldwhi}███  ▄▄  ${rst}${mag}██${bldwhi}███${rst}${mag}██${bldwhi}███${rst}${mag}██${rst}"
+echo -e "  ${bldylw}███████▄  ${bldwhi}▀██▀    ▀▀    ▀▀${rst}  ${bldblu}██${bldbgwhi}▀▄▄▀▀▄▄▀${rst}${bldblu}██  ${bldwhi}▀▀  ██${bldbgred}▀▄▄▀▀▄▄▀██${rst}  ${bldwhi}▀▀  ${rst}${mag}████████████${rst}"
+echo -e "  ${bldylw}▀█████████▄▄${rst}                ${bldblu}████████████      ${bldwhi}████████████      ${rst}${mag}████████████${rst}"
+echo -e "    ${bldylw}▀███████▀${rst}                 ${bldblu}█▀ ▀█  █▀ ▀█      ${bldwhi}█▀ ▀█  █▀ ▀█      ${rst}${mag}█▀ ▀█  █▀ ▀█${rst}"
+echo -e "${blu}${line}${rst}"
